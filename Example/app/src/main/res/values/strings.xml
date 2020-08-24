@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Example App</string>
+    <string name="text_sign_in_with_google">Đăng nhập với Google</string>
+    <string name="web_client_id">356856038611-e1869aahojiologmb9rr5dmdia5ncj4d.apps.googleusercontent.com</string>
+    <string name="text_logout">Đăng xuất</string>
+    <string name="text_ok">OK</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+</resources>

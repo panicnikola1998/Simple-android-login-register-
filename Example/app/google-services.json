@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "356856038611",
+    "firebase_url": "https://shopmini-9230e.firebaseio.com",
+    "project_id": "shopmini-9230e",
+    "storage_bucket": "shopmini-9230e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356856038611:android:f8c75708b1069fe31a8026",
+        "android_client_info": {
+          "package_name": "cm.com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356856038611-jrhmkr0j4h808tmon3kq8dit5ndpu5ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cm.com.example",
+            "certificate_hash": "8581019f35d11631f61748e06360c6b9fec01547"
+          }
+        },
+        {
+          "client_id": "356856038611-cr7nnhvm6h5v7a3bn75mqhtp04slvjhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cm.com.example",
+            "certificate_hash": "769ad13c799d5a1e088c681135b43f2eba6dc917"
+          }
+        },
+        {
+          "client_id": "356856038611-e1869aahojiologmb9rr5dmdia5ncj4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKgGOK-bMHd4qBvgi0SsEdXT9-YBoM2qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356856038611-e1869aahojiologmb9rr5dmdia5ncj4d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356856038611-a8tt4dbntt06moctkr46u1o9m393jda6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cmgroup.com.shopmini"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356856038611:android:4eb539cc395790511a8026",
+        "android_client_info": {
+          "package_name": "cmgroup.com.shopmini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356856038611-sp5cloh3cde455e48eb0nqdttm94reuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cmgroup.com.shopmini",
+            "certificate_hash": "a376501cbaf78b3f45d8e9410f957990c657fd10"
+          }
+        },
+        {
+          "client_id": "356856038611-e1869aahojiologmb9rr5dmdia5ncj4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKgGOK-bMHd4qBvgi0SsEdXT9-YBoM2qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356856038611-e1869aahojiologmb9rr5dmdia5ncj4d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356856038611-a8tt4dbntt06moctkr46u1o9m393jda6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cmgroup.com.shopmini"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
